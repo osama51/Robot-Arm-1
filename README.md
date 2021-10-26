@@ -17,12 +17,12 @@ F and f | to move the first fingertip in two opposite directions
 ________________________________
 
 ## Result Samples:
-
-<img src="images/sample_1.PNG" width="200" height="300"/>
-<img src="images/sample_2.PNG" width="200" height="300"/>
-<img src="images/sample_3.PNG" width="200" height="300"/>
-<img src="images/sample_4.PNG" width="200" height="300"/>
-
+<p float="left">
+  <img src="images/sample_1.PNG" width="350" height="300"/>
+  <img src="images/sample_2.PNG" width="350" height="300"/>
+  <img src="images/sample_3.PNG" width="350" height="300"/>
+  <img src="images/sample_4.PNG" width="350" height="300"/>
+</p>s
 ## Problems Faced:
 
 It was hard to memorize and deduce the value of the current matrix and the stack contents for each code block, so we added comments for about each line to make stack and matrix values traceable in an easy way to solve this problem.
