@@ -18,10 +18,10 @@ ________________________________
 
 ## Result Samples:
 
-<img src="images/sample_1.PNG" width="350" height="300"/>
-<img src="images/sample_2.PNG" width="350" height="300"/>
-<img src="images/sample_3.PNG" width="350" height="300"/>
-<img src="images/sample_4.PNG" width="350" height="300"/>
+<img src="images/sample_1.PNG" width="330" height="300"/>
+<img src="images/sample_2.PNG" width="330" height="300"/>
+<img src="images/sample_3.PNG" width="330" height="300"/>
+<img src="images/sample_4.PNG" width="330" height="300"/>
 
 ## Problems Faced:
 
